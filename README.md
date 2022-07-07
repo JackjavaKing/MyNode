@@ -2,24 +2,18 @@
 
 ## 💥[JavaBase](/ToWork/JavaBase.md)💯
 
-## 💥JavaBase💯
+## 💥[hadoop错误](/ToWork/hadoop/做hadoop集群时的错误.md)💯			 
 
-## 💥JavaBase💯
+## 💥[负载均衡](/ToWork/redis操作.md)💯
 
-# 💥redis💯
+## 💥[redis](/ToWork/redis的面试.md)💯
 
-#### 				 🉐[reids操作](/ToWord/redis操作.md)💯
+#### 				 🉐[reids操作](/ToWork/redis/redis操作.md)💯
 
-####  				🉐[redis的面试](/ToWord/redis的面试.md)💯
+#### 				 🉐[redis的学习笔记](/ToWork/redis/Redis学习笔记.md)💯
 
-#### 				 🉐[redis的学习笔记](/ToWord/Redis学习笔记.md)💯
-
-# 💥[设计模式](/ToWork/设计模式.md)💯
+## 💥[设计模式](/ToWork/设计模式.md)💯
 
 
 
-## 💥JavaBase💯
-
-
-
-💥💥🉐🉐🉐🉐🉐🉐🉐💯💯💯💯💯
+还在制作中...........
