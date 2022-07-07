@@ -10,7 +10,7 @@
 
 <br>
 
-[GitHub](https://github.com/xuliyaheizi)
+[GitHub](https://github.com/JackjavaKing)
 [开始阅读](/README.md)
 
 ![color](#fff)
