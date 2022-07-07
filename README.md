@@ -1,6 +1,6 @@
 # 目录
 
-## 💥[JavaBase](/Towork/JavaBase.md)💯
+## 💥[JavaBase](/ToWork/JavaBase.md)💯
 
 ## 💥JavaBase💯
 
@@ -8,7 +8,7 @@
 
 ## 💥JavaBase💯
 
-## 💥[设计模式](/Towork/设计模式.md)💯
+## 💥[设计模式](/ToWork/设计模式.md)💯
 
 
 
