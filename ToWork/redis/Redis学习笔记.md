@@ -285,7 +285,6 @@
 Java 中 HashSet 的内部实现使用的是 `HashMap`，只不过所有的 value 都指向同一个对象。 Redis 的 set 结构也是一样，它的内部也使用 hash 结构，所有的 value 都指向同一个内部值。
 
 <hr>
-
 ### 3.4 ⭐哈希（hash）
 
 ***Redis hash*** 是一个键值对集合。
